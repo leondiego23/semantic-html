@@ -16,7 +16,7 @@ An improved digital marketing webpage for the Horiseon Marketing Agency website,
  ***No visual or functional changes were made to final view of the website.**
 
 Link to website:
-
+https://leondiego23.github.io/semantic-html/
 
 ## Preview of Website
 
